@@ -11,5 +11,7 @@ dependencies = [
     "langgraph>=1.0.5",
     "langgraph-checkpoint-postgres>=3.0.3",
     "numpy>=2.4.0",
+    "psycopg-pool>=3.3.0",
+    "psycopg[binary]>=3.3.2",
     "python-dotenv>=1.2.1",
 ]
